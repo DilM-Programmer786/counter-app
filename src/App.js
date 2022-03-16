@@ -121,7 +121,7 @@ export default function App() {
         }
             </>
         } />
-        <Route path="/about" element={About} />
+        <Route path="/about" element={<About />} />
         </Routes>
         <Footer />
     </div>

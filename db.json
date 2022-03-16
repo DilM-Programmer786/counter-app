@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Eating",
+      "day": "Night",
+      "remainder": true,
+      "id": 2
+    },
+    {
+      "text": "Coding",
+      "day": "Night",
+      "remainder": false,
+      "id": 3
+    }
+  ]
+}
